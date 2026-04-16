@@ -301,7 +301,7 @@
   },
   {
     "repo_name": "risk-module",
-    "exists": false
+    "exists": true
   },
   {
     "repo_name": "data-framework",
